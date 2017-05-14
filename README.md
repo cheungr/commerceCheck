@@ -11,10 +11,11 @@ Store Index
 Installation
 ------------
 
-Requires: [Request](http://docs.python-requests.org/en/master/) and [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
+Requires: 
 
-* install request: `sudo pip install requests`
-* install beautiful soup: `sudo pip install bs4`
+* [Request](http://docs.python-requests.org/en/master/) `sudo pip install requests`
+* [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/) `sudo pip install bs4`
+* [IFTTT](https://ifttt.com) account and [maker webhook](https://ifttt.com/maker_webhooks)
 
 Usage
 ------------
